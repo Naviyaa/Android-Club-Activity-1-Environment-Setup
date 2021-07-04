@@ -17,6 +17,7 @@ Step 3. In the current termical execute -> npm install react-native-cli
 Step 4. In the termical copy the following command -> npx react-native init FirstApp
 
 
+
 Runnning the App (on an Android Emulator or device):
 
 Once setup is done, move to app directory:
